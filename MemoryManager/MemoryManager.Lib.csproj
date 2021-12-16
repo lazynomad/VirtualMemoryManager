@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <AssemblyName>MemoryManager.Lib</AssemblyName>
+    <RootNamespace>MemoryManager.Lib</RootNamespace>
+  </PropertyGroup>
+
+</Project>
